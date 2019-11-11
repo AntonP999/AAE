@@ -1,1 +1,1 @@
-### PyTorch implementation of adversarial autoencoder.
+### PyTorch implementations of adversarial autoencoder and untangled conditional adversarial autoencoder.
